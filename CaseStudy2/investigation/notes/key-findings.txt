@@ -1,0 +1,44 @@
+SBT-DF204 Case Study 2 - Key Findings
+
+Evidence examined:
+- Chrome History SQLite database acquired from the supplied GitHub raw-file URL.
+- Original and working copy are each 196608 bytes.
+- SHA-256 for both files:
+  b991b0fa69662c44caf599e468c8088576ebd9cebbf46d02c89cf51bcde3fd19
+- Original and working copy passed byte-level comparison.
+- SQLite PRAGMA integrity_check returned: ok.
+
+Database records:
+- 57 URL records.
+- 74 visit records.
+- 4 recorded search terms.
+- 1 download record.
+- 1 download URL-chain record.
+- Recorded visit range: 2022-04-19 13:54:18 UTC to 2022-04-19 15:02:56 UTC.
+
+Recorded search terms:
+- craigslist
+- gmail
+- blockchain explorer
+- kraken
+
+Download:
+- Recorded file name: proof_of_payment.png
+- Recorded Windows path: C:\Users\FSCS_User\Desktop\proof_of_payment.png
+- Recorded download URL: https://i.imgur.com/dTgrkP7.png
+- Recorded download interval: 2022-04-19 14:56:58 UTC to 14:57:10 UTC.
+- Recorded MIME type: image/png.
+- Browser history records an Imgur page visit shortly before the download.
+- The image was not found in the case evidence directories or the searched Downloads directory.
+
+Cryptocurrency-related activity:
+- Browser records include Blockchain.com, a Bitcoin address page, Kraken sign-in/device-approval/account-related pages, and a mempool.space transaction page.
+- Transaction identifier recorded in relevant titles and URLs:
+  517b2156914944339a96137ad8978408ea52b2fc144c98d3b0b16b21888afdc5
+- These records establish browser activity, not a completed transaction, ownership, or individual attribution.
+
+Limitations:
+- The downloaded image's contents and authenticity were not independently verified.
+- Browser-stored titles and URLs are not independent proof of account balances or transaction completion.
+- The source and relevance of the sample database must be checked against the assignment instructions.
+- The findings do not independently identify the browser user.

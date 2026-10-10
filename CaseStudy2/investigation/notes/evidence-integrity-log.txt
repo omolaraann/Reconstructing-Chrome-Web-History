@@ -1,0 +1,23 @@
+SBT-DF204 CASE STUDY 2
+Evidence Integrity and Verification Log
+========================================
+
+Verification log generated: 2026-10-10 14:05:26 UTC
+
+1. Evidence file details
+File: evidence/original/History | Size: 196608 bytes | Modified: 2026-10-10 09:07:01.155887970 -0400
+File: evidence/working/History | Size: 196608 bytes | Modified: 2026-10-10 09:07:01.155887970 -0400
+
+2. SHA-256 hashes
+b991b0fa69662c44caf599e468c8088576ebd9cebbf46d02c89cf51bcde3fd19  evidence/original/History
+b991b0fa69662c44caf599e468c8088576ebd9cebbf46d02c89cf51bcde3fd19  evidence/working/History
+
+3. Byte-for-byte comparison
+PASS: Original and working copy are byte-identical.
+
+4. SQLite integrity check
+ok
+
+5. File identification
+evidence/original/History: SQLite 3.x database, last written using SQLite version 3036000, file counter 33, database pages 41, cookie 0xa7, schema 4, UTF-8, version-valid-for 33
+evidence/working/History:  SQLite 3.x database, last written using SQLite version 3036000, file counter 33, database pages 41, cookie 0xa7, schema 4, UTF-8, version-valid-for 33
