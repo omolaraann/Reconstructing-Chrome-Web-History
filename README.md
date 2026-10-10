@@ -1,4 +1,4 @@
-# Reconstructing Chrome Web History
+# 🔍 Reconstructing Chrome Web History
 
 **Investigation Type:** Browser Forensics and Web Activity Reconstruction  
 **Primary Evidence:** Google Chrome History Database  
@@ -8,24 +8,24 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-1. [Project Overview](#1-project-overview)
-2. [Purpose of the Assignment](#2-purpose-of-the-assignment)
-3. [Objectives of the Investigation](#3-objectives-of-the-investigation)
-4. [Tools and Resources Used](#4-tools-and-resources-used)
-5. [Repository Structure](#5-repository-structure)
-6. [Investigation Methodology](#6-investigation-methodology)
-7. [Evidence Acquisition and Integrity Verification](#7-evidence-acquisition-and-integrity-verification)
-8. [Database Schema Examination](#8-database-schema-examination)
-9. [SQL Analysis and Artefact Extraction](#9-sql-analysis-and-artefact-extraction)
-10. [Key Findings](#10-key-findings)
-11. [Timeline Reconstruction](#11-timeline-reconstruction)
-12. [Evidence Interpretation and Limitations](#12-evidence-interpretation-and-limitations)
-13. [Reproducibility](#13-reproducibility)
-14. [Screenshots and Visual Documentation](#14-screenshots-and-visual-documentation)
-15. [Conclusion](#15-conclusion)
-16. [Author and Repository](#16-author-and-repository)
+📌 [Project Overview](#1-project-overview)
+🎯 [Purpose of the Assignment](#2-purpose-of-the-assignment)
+🧭 [Objectives of the Investigation](#3-objectives-of-the-investigation)
+🧰 [Tools and Resources Used](#4-tools-and-resources-used)
+📂 [Repository Structure](#5-repository-structure)
+🔬 [Investigation Methodology](#6-investigation-methodology)
+🔐 [Evidence Acquisition and Integrity Verification](#7-evidence-acquisition-and-integrity-verification)
+🗃️ [Database Schema Examination](#8-database-schema-examination)
+💻 [SQL Analysis and Artefact Extraction](#9-sql-analysis-and-artefact-extraction)
+🔎 [Key Findings](#10-key-findings)
+🕒 [Timeline Reconstruction](#11-timeline-reconstruction)
+⚖️ [Evidence Interpretation and Limitations](#12-evidence-interpretation-and-limitations)
+🔄 [Reproducibility](#13-reproducibility)
+📸 [Screenshots and Visual Documentation](#14-screenshots-and-visual-documentation)
+✅ [Conclusion](#15-conclusion)
+👤 [Author and Repository](#16-author-and-repository)
 
 ---
 
